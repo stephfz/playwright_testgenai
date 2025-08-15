@@ -1,2 +1,2 @@
-Contenido:
-Prompt y ejemplo empleado para el post: (Recargando tu testing exploratorio con Playwright)[https://medium.com/@la__steph/recargando-tu-testing-exploratorio-con-playwright-mcp-0f9b45de1525]
+# Contenido:
+Prompt y ejemplo empleado para el post: [Recargando tu testing exploratorio con Playwright](https://medium.com/@la__steph/recargando-tu-testing-exploratorio-con-playwright-mcp-0f9b45de1525)
